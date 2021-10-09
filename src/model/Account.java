@@ -38,6 +38,7 @@ public class Account {
 	}
 	
 	public void display() {
+		System.out.println("modified");
 		System.out.println("Name : "+accountName);
 		System.out.println("Adress : "+address);
 		System.out.println("Phone Number : "+phoneNumber);
