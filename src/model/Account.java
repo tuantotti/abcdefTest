@@ -47,4 +47,8 @@ public class Account {
 		System.out.println("Phone Number : "+phoneNumber);
 	}
 	
+	public void display() {
+		System.out.println("conflic in server");
+	}
+	
 }
