@@ -38,6 +38,7 @@ public class Account {
 	}
 	
 	public void display() {
+		System.out.println("conflic local");
 		System.out.println("modified");
 		System.out.println("modified in mybrach");
 		System.out.println("Name : "+accountName);
